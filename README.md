@@ -3,7 +3,7 @@
 ## This is AMJAD AZIZ, Alpha MLSA, Kaggle Contributor, and eager to learn everything
 
 - 🔭 I’m currently working on Data Science, ML and AI
-- 🌱 I’m currently learning Data Analyst from Scratch
+- 🌱 I’m currently learning Data Analysis from Scratch
 - 👯 I’m looking to collaborate on any open-source projects
 - 🤔 I’m looking for help with my career guidance
 - 💬 Ask me about Problem Solving and Python
