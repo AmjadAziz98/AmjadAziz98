@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## This is AMJAD AZIZ, Alpha MLSA, Kaggle Contributor, and eager to learn everything
+## This is AMJAD AZIZ, Beta MLSA, Kaggle Contributor, and eager to learn everything
 
 - 🔭 I’m currently working on Data Science, ML and AI
 - 🌱 I’m currently learning Data Analysis from Scratch
