@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Data Science, ML and AI
 - 🌱 I’m currently learning Data Analysis from Scratch
 - 👯 I’m looking to collaborate on any open-source projects
-- 🤔 I’m looking for help with my career guidance
 - 💬 Ask me about Problem Solving and Python
 - 📫 How to reach me: My LinkedIn [AMJAD AZIZ](https://www.linkedin.com/in/amjad-aziz-19713822b/)
 
